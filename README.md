@@ -1,1 +1,24 @@
-# sep_23_html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hi>Gourav Mittal</hi>
+    <h3>Student</h3>
+    <a href="https://www.linkedin.com/in/gourav-mittal-9427aa37a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_home%3B3DIm3Ca8QUCp%2BfFXOVI5hw%3D%3D" target="_blank">LinkedIn</a>
+    <a href="https://github.com/account" target="_blank">GitHub</a>
+    <hr>
+    <h2>EXPERIENCE</h2>
+    <h3>experience -1 Title</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta similique omnis dolorem adipisci fugit veritatis eveniet laudantium commodi architecto dolorum, blanditiis et quis, voluptatum repellendus est atque doloremque tempora sed.</p>
+    <h3>experience -2 Title</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta similique omnis dolorem adipisci fugit veritatis eveniet laudantium commodi architecto dolorum, blanditiis et quis, voluptatum repellendus est atque doloremque tempora sed.</p>
+    <hr>
+</body>
+</html>
+
+
+
